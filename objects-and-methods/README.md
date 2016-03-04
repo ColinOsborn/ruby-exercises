@@ -6,7 +6,7 @@ If you'd like to be walked through the exercise, check out the [Objects and Meth
 
 Make the tests pass in the following sequence:
 
-* `test/candy_test.rb`
+* `test/candy_test.rb`  x
 * `test/bag_test.rb`
 * `test/costume_test.rb`
 * `test/trick_or_treater_test.rb`
@@ -27,4 +27,3 @@ Make the tests pass in the following sequence:
 * `test/bag_test.rb`
 * `test/costume_test.rb`
 * `test/trick_or_treater_test.rb`
-
