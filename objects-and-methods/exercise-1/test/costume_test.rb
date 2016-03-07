@@ -3,6 +3,7 @@ require 'minitest/autorun'
 require 'minitest/pride'
 require_relative '../lib/costume'
 
+
 class CostumeTest < Minitest::Test
   def test_costume_style
     costume = Costume.new("Batman")
@@ -15,4 +16,3 @@ class CostumeTest < Minitest::Test
     assert_equal "Princess", costume.style
   end
 end
-

@@ -7,8 +7,8 @@ If you'd like to be walked through the exercise, check out the [Objects and Meth
 Make the tests pass in the following sequence:
 
 * `test/candy_test.rb`  x
-* `test/bag_test.rb`
-* `test/costume_test.rb`
+* `test/bag_test.rb` x = do over
+* `test/costume_test.rb` x
 * `test/trick_or_treater_test.rb`
 
 Run a test file by calling it with `ruby`:
